@@ -17,6 +17,4 @@ ds =  mutate(
   )
 
 # Записываем файл
-write_xlsx(ds, "fio_R.xlsx")
-
- 
+write_xlsx(ds, "fio_result_R.xlsx")
